@@ -1,35 +1,4 @@
 # PythonPractices
-The aim of these practices are learning Recursive methods vs. Iterative methods plus learning objective programming : "class". 
+These practices aim to learn Recursive methods vs. Iterative methods plus learning objective programming: 
+                     "class"    with practicing well-known structures and algorithms. 
 
-
-____________________________________________________________________________________________________
- # 2Calculator: 
- Developing and creating calculator. 
- The file tokenizer was adopted from UU (uppsala University).  
- 
- 
-____________________________________________________________________________________________________
-# 3
- 
- 
- 
- ____________________________________________________________________________________________________
-#4
- 
- 
- 
- 
- 
- 
- ____________________________________________________________________________________________________
-# 5 
- 
- 
- 
- 
- ____________________________________________________________________________________________________
-# 6
- 
- 
-
- 
